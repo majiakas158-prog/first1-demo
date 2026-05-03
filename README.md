@@ -1,3 +1,3 @@
 # first1-demo
 This is my first Git Repository.
-Author- Akas maji
+Author- Akas maji(new)
